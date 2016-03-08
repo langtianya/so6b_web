@@ -1,4 +1,4 @@
-package com.so6b.common.controller;
+package com.so6b.common.controllers;
 
 /**
  *

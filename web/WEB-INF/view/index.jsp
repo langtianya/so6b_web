@@ -5,11 +5,11 @@
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>英语单词小助手</title>
+        <title>英语单词网</title>
     </head>
 
     <body>
-        <input type="text"/><input type="submit" value="搜索"/><br/>
+        <input type="text"/><input type="submit" value="搜索"/>&nbsp;今日更新：55154 个<br/>
         <a href="#" >a</a>&nbsp;
         <a href="#" >b</a>&nbsp;
         <a href="#" >c</a>&nbsp;
